@@ -26,8 +26,7 @@ Todo provides a simple and elegant task management experience designed to improv
 
 1. Clone the repository:
    
-   git clone https://github.com/your-username/Todo-App.git
-
+   git clone https://mohduvais591-cloud.github.io/Todo-App/
 2. Open the project folder.
 
 3. Run "index.html" in your browser.
